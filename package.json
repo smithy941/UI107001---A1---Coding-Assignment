@@ -1,0 +1,15 @@
+{
+  "name": "ui107001---a1---coding-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "algorithms.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
